@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Perpustakaan Digital</string>
+
+    <string name="login_title">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_error">Username atau password salah</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="kelola_buku">Kelola Buku</string>
+    <string name="peminjaman_buku">Peminjaman Buku</string>
+    <string name="pengembalian_buku">Pengembalian Buku</string>
+    <string name="riwayat_peminjaman">Riwayat Peminjaman</string>
+    <string name="logout">Logout</string>
+
+    <string name="judul_buku">Judul Buku</string>
+    <string name="penulis">Penulis</string>
+    <string name="kategori">Kategori</string>
+    <string name="stok">Stok</string>
+
+    <string name="pinjam_buku">Pinjam Buku</string>
+    <string name="kembalikan_buku">Kembalikan Buku</string>
+    <string name="tanggal_pinjam">Tanggal Pinjam</string>
+    <string name="tanggal_kembali">Tanggal Kembali</string>
+
+</resources>
