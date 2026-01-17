@@ -214,7 +214,7 @@ fun PilihBukuSearchBar(text: String, onTextChange: (String) -> Unit) {
     OutlinedTextField(
         value = text, onValueChange = onTextChange,
         modifier = Modifier.fillMaxWidth().padding(16.dp),
-        placeholder = { Text("Cari judul, penulis, ISBN...") },
+        placeholder = { Text("Cari judul, penulis...") },
         leadingIcon = { Icon(Icons.Default.Search, null, tint = Color.Gray) },
         shape = RoundedCornerShape(12.dp), singleLine = true,
         keyboardActions = KeyboardActions(onDone = { keyboardController?.hide() }),
